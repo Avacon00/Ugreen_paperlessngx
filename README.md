@@ -144,6 +144,7 @@ services:
 ### 🔐 4. Berechtigungen setzen
 
 Führe auf deiner NAS folgende Befehle aus, um die Besitzrechte korrekt zu setzen:
+-Beachte  wieder deine UID & GID, diese musst du noch anpassen-
 
 ```bash
 sudo chown -R 1026:100 /volume1/docker/paperlessngx/consume
