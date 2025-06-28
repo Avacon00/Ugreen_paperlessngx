@@ -22,8 +22,8 @@ Diese Anleitung beschreibt Schritt für Schritt, wie du **Paperless-NGX** mithil
 
 ### 📂 1. Ordnerstruktur erstellen
 
-1. Öffne den Dateimanager deiner Synology NAS.
-2. Navigiere zu `docker` (freigegebener Ordner).
+1. Öffne den Dateimanager (Dateien / Files) deiner UGREEN NAS
+2. Navigiere zu `docker` (Freigegebener Ordner).
 3. Erstelle darin den Ordner `paperlessngx`.
 4. Lege darin folgende Unterordner an:
 
@@ -41,6 +41,7 @@ Diese Anleitung beschreibt Schritt für Schritt, wie du **Paperless-NGX** mithil
 ---
 
 ### 🆔 2. Eigene Benutzer-ID (UID & GID) ermitteln
+(unter Systemsteuerung, Terminal, SSH Aktivieren und übernehmen drücken, nicht vergessen danach wieder zu Deaktivieren)
 
 Öffne eine SSH-Verbindung zur NAS und führe folgenden Befehl aus:
 
