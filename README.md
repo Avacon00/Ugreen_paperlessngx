@@ -63,7 +63,7 @@ uid=1026(dein_benutzer) gid=100(users) groups=100(users),101(administrators)
 
 ### 📝 3. docker-compose.yml anpassen
 
-Kopiere die folgende Konfiguration und passe alle `USERMAP_UID`, `USERMAP_GID` und IP-Adressen an deine Umgebung an:
+Kopiere die folgende Konfiguration und passe alle `USERMAP_UID`, `USERMAP_GID`, `IP-Adressen` und ggf. die `PORTS` an deine Umgebung an:
 
 ```yaml
 version: "3.9"
