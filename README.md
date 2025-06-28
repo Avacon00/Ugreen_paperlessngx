@@ -1,4 +1,4 @@
-# 🚀 Anleitung: Paperless-NGX mit Docker auf einer Synology NAS 🗄️
+# 🚀 Anleitung: Paperless-NGX mit Docker auf einer UGREEN NAS 🗄️
 
 Diese Anleitung beschreibt Schritt für Schritt, wie du **Paperless-NGX** mithilfe von **Docker** und **Portainer** auf deiner **UGREEN NAS** installierst. Auch auf anderen Systemen ist sie größtenteils übertragbar.
 
